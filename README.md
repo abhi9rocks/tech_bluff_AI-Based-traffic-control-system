@@ -1,6 +1,4 @@
-
-![WhatsApp Image 2020-09-07 at 9 57 52 AM](https://user-images.githubusercontent.com/65444708/92360178-0a1f1e80-f10a-11ea-8b59-e3ea40833dbe.jpeg)
-
+![WhatsApp Image 2020-09-07 at 9 57 52 AM](https://user-images.githubusercontent.com/65444708/92361155-9847d480-f10b-11ea-9a94-e5861cc44ca0.jpeg)
 AI-Based-traffic-control-system by tech_bluff
 Road accidents are undoubtedly the most frequent happening cases and overall, the cause of the most damage. So, here our team tech_bluff come up with an AI Based Smart Traffic control System to the problem.
 

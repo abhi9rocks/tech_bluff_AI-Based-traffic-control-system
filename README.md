@@ -1,4 +1,4 @@
-# tech_bluff_AI-Based-traffic-control-system
+# AI-Based-traffic-control-system by tech_bluff
 Road accidents are undoubtedly the most frequent happening cases and overall, the cause of the most damage. So, here our team tech_bluff come up with an AI Based Smart Traffic control System to the problem.
 
 # Our smart solution includes mainly following solutions:
@@ -28,4 +28,4 @@ our Smart System is trained to detect if the person riding the vehicle is wearin
 
 Code for same is in helmet_detection folder.
 
-Demo link for AI Based Traffic Control System: 
+Demo link for AI Based Traffic Control System: https://youtu.be/3f5n17f4Rl4

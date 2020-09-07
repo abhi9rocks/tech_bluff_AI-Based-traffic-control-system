@@ -29,3 +29,4 @@ our Smart System is trained to detect if the person riding the vehicle is wearin
 Code for same is in helmet_detection folder.
 
 Demo link for AI Based Traffic Control System: https://youtu.be/3f5n17f4Rl4
+
